@@ -4,7 +4,7 @@
 
 ## Printing Instructions
 
-- **Material:** PLA or PETG (File 2), TPU (File 3)
+- **Material:** PLA or PETG (Casing), TPU (Membrane)
 - **Layer Height:** 0.2mm
 - **Infill:** 15% – 20%
 - **Supports:** Not required
